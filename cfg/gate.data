@@ -1,5 +1,0 @@
-classes= 7
-train  = /content/data/gate-train.txt
-valid  = /content/data/gate-test.txt
-names = /content/data/gate.names
-backup = backup
